@@ -42,25 +42,6 @@ To toggle between dark and light modes, click the button provided on the website
 
 ## Code Explanation
 
-Here's the updated README for your GitHub repository:
-
----
-
-# JS Simple Portfolio Website
-
-This project is a simple portfolio website focused on showcasing the dark and light mode feature. The web is not responsive yet.
-
-## Demo
-
-[Live Demo](https://your-demo-link.com)
-
-## Features
-
-- **Dark/Light Mode Toggle**: Easily switch between dark and light themes.
-- **Local Storage**: Remembers the user's theme preference.
-
-## Code Explanation
-
 ### Theme Initialization
 
 ```javascript
